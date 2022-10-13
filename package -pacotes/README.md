@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Guilherme- Baseado no processo arquivo de origem
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
